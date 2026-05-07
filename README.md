@@ -20,3 +20,5 @@
 ## 💼 Experience
 
 ### AI Automation Engineer Intern — Vajra Global Consulting Services LLP
+📅 July 2025 – October 2025
+
