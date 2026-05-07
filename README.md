@@ -16,3 +16,5 @@
 - 🤝 Open to collaboration on AI and software development projects
 
 ---
+
+## 💼 Experience
