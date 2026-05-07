@@ -2,3 +2,4 @@
 
 
 🎓 M.Tech Artificial Intelligence Student  
+💻 AI Automation & Web Developer  
