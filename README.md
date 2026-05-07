@@ -13,3 +13,6 @@
 - 💡 Interested in AI Automation, Web Development, and Front-End Development
 - 🔧 Currently working on AI-based automation and machine learning projects
 - 🌱 Learning advanced AI technologies and workflow automation
+- 🤝 Open to collaboration on AI and software development projects
+
+---
