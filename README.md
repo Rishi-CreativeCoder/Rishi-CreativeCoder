@@ -18,3 +18,5 @@
 ---
 
 ## 💼 Experience
+
+### AI Automation Engineer Intern — Vajra Global Consulting Services LLP
